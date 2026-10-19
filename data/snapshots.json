@@ -1,5 +1,103 @@
 [
   {
+    "date": "2026-10-19",
+    "capturedAt": "2026-10-19T05:28:22.032Z",
+    "source": "https://github.com/trending?since=weekly",
+    "kind": "live",
+    "repos": [
+      {
+        "rank": 1,
+        "name": "morluto/rea",
+        "url": "https://github.com/morluto/rea",
+        "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+        "language": "TypeScript",
+        "stars": 325525,
+        "weeklyStars": 229268
+      },
+      {
+        "rank": 2,
+        "name": "storytold/artcraft",
+        "url": "https://github.com/storytold/artcraft",
+        "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+        "language": "Rust",
+        "stars": 32955,
+        "weeklyStars": 16379
+      },
+      {
+        "rank": 3,
+        "name": "boykopovar/AnyPS5",
+        "url": "https://github.com/boykopovar/AnyPS5",
+        "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+        "language": "C++",
+        "stars": 43411,
+        "weeklyStars": 14224
+      },
+      {
+        "rank": 4,
+        "name": "anthropics/claude-plugins-official",
+        "url": "https://github.com/anthropics/claude-plugins-official",
+        "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+        "language": "Python",
+        "stars": 42847,
+        "weeklyStars": 4774
+      },
+      {
+        "rank": 5,
+        "name": "mksglu/context-mode",
+        "url": "https://github.com/mksglu/context-mode",
+        "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+        "language": "TypeScript",
+        "stars": 30832,
+        "weeklyStars": 4138
+      },
+      {
+        "rank": 6,
+        "name": "cathrynlavery/diagram-design",
+        "url": "https://github.com/cathrynlavery/diagram-design",
+        "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+        "language": "HTML",
+        "stars": 57874,
+        "weeklyStars": 7901
+      },
+      {
+        "rank": 7,
+        "name": "NationalSecurityAgency/ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "description": "Ghidra is a software reverse engineering (SRE) framework",
+        "language": "Java",
+        "stars": 91057,
+        "weeklyStars": 7602
+      },
+      {
+        "rank": 8,
+        "name": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "description": "Write HTML. Render video. Built for agents.",
+        "language": "TypeScript",
+        "stars": 66928,
+        "weeklyStars": 5883
+      },
+      {
+        "rank": 9,
+        "name": "cursor/plugins",
+        "url": "https://github.com/cursor/plugins",
+        "description": "Cursor plugin specification and official plugins",
+        "language": "TypeScript",
+        "stars": 12829,
+        "weeklyStars": 1717
+      },
+      {
+        "rank": 10,
+        "name": "MadsLorentzen/ai-job-search",
+        "url": "https://github.com/MadsLorentzen/ai-job-search",
+        "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+        "language": "Python",
+        "stars": 54006,
+        "weeklyStars": 5742
+      }
+    ]
+  },
+  {
     "date": "2026-10-14",
     "capturedAt": "2026-10-13T17:02:57.809Z",
     "source": "https://github.com/trending?since=weekly",
